@@ -1,1 +1,2 @@
-# CO2_EMISSION_LINEAR-REGRESSION
+CO2 emissions have significant environmental impacts. The accumulation of CO2 in the atmosphere contributes to the greenhouse effect, trapping heat and causing global warming. This leads to various adverse effects, including rising global temperatures, sea-level rise, changes in weather patterns, and ecosystem disruptions.
+The following code demonstrates usage of a simple Linear Regression model to predict CO2 Emission values. The data is divided into train and test sets to measure the metrics of performance of the model. Toward the end of the code, there are also  Regression techniques and Tuning method used in the model.
